@@ -1,0 +1,2 @@
+readyToFire = true
+onCooldown = false
