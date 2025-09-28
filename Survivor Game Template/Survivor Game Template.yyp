@@ -125,6 +125,7 @@
     {"id":{"name":"snd_ui_close","path":"sounds/snd_ui_close/snd_ui_close.yy",},},
     {"id":{"name":"snd_ui_select","path":"sounds/snd_ui_select/snd_ui_select.yy",},},
     {"id":{"name":"snd_win","path":"sounds/snd_win/snd_win.yy",},},
+    {"id":{"name":"dirt_grass_tile","path":"sprites/dirt_grass_tile/dirt_grass_tile.yy",},},
     {"id":{"name":"spr_arcing_attack_big","path":"sprites/spr_arcing_attack_big/spr_arcing_attack_big.yy",},},
     {"id":{"name":"spr_arcing_attack_small","path":"sprites/spr_arcing_attack_small/spr_arcing_attack_small.yy",},},
     {"id":{"name":"spr_arcing","path":"sprites/spr_arcing/spr_arcing.yy",},},
