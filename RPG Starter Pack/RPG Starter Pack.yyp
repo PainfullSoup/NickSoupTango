@@ -63,6 +63,7 @@
     {"id":{"name":"oJoystickManager","path":"objects/oJoystickManager/oJoystickManager.yy",},},
     {"id":{"name":"oLookStick","path":"objects/oLookStick/oLookStick.yy",},},
     {"id":{"name":"oMoveStick","path":"objects/oMoveStick/oMoveStick.yy",},},
+    {"id":{"name":"oNextWeaponArrow","path":"objects/oNextWeaponArrow/oNextWeaponArrow.yy",},},
     {"id":{"name":"oPistol","path":"objects/oPistol/oPistol.yy",},},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
     {"id":{"name":"oRunnerStandard","path":"objects/oRunnerStandard/oRunnerStandard.yy",},},
