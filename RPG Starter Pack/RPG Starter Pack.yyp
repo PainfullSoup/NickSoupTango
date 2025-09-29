@@ -75,6 +75,8 @@
     {"id":{"name":"ShootWeapon","path":"scripts/ShootWeapon/ShootWeapon.yy",},},
     {"id":{"name":"DBackground_v2","path":"sprites/DBackground_v2/DBackground_v2.yy",},},
     {"id":{"name":"DBush_v2","path":"sprites/DBush_v2/DBush_v2.yy",},},
+    {"id":{"name":"HandSBar","path":"sprites/HandSBar/HandSBar.yy",},},
+    {"id":{"name":"HOverlay","path":"sprites/HOverlay/HOverlay.yy",},},
     {"id":{"name":"sArrowUI","path":"sprites/sArrowUI/sArrowUI.yy",},},
     {"id":{"name":"sEliteEnemy1","path":"sprites/sEliteEnemy1/sEliteEnemy1.yy",},},
     {"id":{"name":"sEnemy1","path":"sprites/sEnemy1/sEnemy1.yy",},},
