@@ -56,7 +56,6 @@ layer_vspeed("Background", global.ySpeed)
 layer_hspeed("Bullets", -global.xSpeed)
 layer_vspeed("Bullets", -global.ySpeed)
 
-
 // Change player stats of looking + shooting
 if (lookStick.innerX != 0 || lookStick.innerY != 0)
 {
