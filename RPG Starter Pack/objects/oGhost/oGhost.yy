@@ -1,12 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"oRunnerStandard",
+  "%Name":"oGhost",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"oBullet","path":"objects/oBullet/oBullet.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"oRunnerStandard",
+  "name":"oGhost",
   "overriddenProperties":[],
   "parent":{
     "name":"RunnerType",
@@ -34,8 +34,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sRunner",
-    "path":"sprites/sRunner/sRunner.yy",
+    "name":"sGhost",
+    "path":"sprites/sGhost/sGhost.yy",
   },
   "spriteMaskId":null,
   "visible":true,

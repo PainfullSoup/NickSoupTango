@@ -12,7 +12,7 @@ if (global.enemyCount <= 100)
 	var tempRandom = irandom(20)
 	
 	var spawnType = oEnemy1
-	if (tempRandom >= 15) {spawnType = oRunnerStandard}
+	if (tempRandom >= 15) {spawnType = oGhost}
 	if (tempRandom = 1) {spawnType = oEliteEnemy1}
 	
 	instance_create_layer(enemyX, enemyY, "Enemies", spawnType)
