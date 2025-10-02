@@ -1,11 +1,11 @@
-movementSpeed = baseSpeed
+movementSpeed = baseMovementSpeed
 
 var shiftHeld = keyboard_check(vk_shift)
 
 // if we are holding shift and can sprint
 if (shiftHeld and currentStamina > 0)
 {
-    movementSpeed = baseSpeed * sprintSpeed
+    movementSpeed = baseMovementSpeed * sprintSpeed
     currentStamina = currentStamina - stamindaDrain/60
     stamRegen = 0
 }
@@ -20,7 +20,7 @@ else
         }
         else 
         {
-            stamRegen = 4
+            stamRegen = maxStamRegen
         } 
     } 
 }

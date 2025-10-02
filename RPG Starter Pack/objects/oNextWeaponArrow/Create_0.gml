@@ -1,1 +1,0 @@
-currentWeapons = global.unlockedWeapons

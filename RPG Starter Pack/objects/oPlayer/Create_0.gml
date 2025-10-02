@@ -7,24 +7,22 @@ currentWeapon = oPistol
 isSprinting = false
 catchBreath = false
 
-// XP Info
-currentXP = 1
-xpToLevel = 100
 
 // Movement Info
-movementSpeed = 4
-baseSpeed = 4
-sprintSpeed = 1.5
+baseMovementSpeed = 2 * global.playerMovementSpeedModifier
+movementSpeed = 2
+sprintSpeed = 1.5 + global.playerSprintSpeedModifier
 
 // Health Info
-hp = 100
-hpMax = 100
+hpMax = 100 * global.playerMaxHealthModifier
+hp = hpMax
 
 // Stamina Info
-maxStamina = 100
-currentStamina = 100
+maxStamina = 100 * global.playerMaxStaminaModifier
+currentStamina = maxStamina
 stamindaDrain = 25
 stamTimerStarted = false
+maxStamRegen = 4 * global.playerStaminaRechargeModifier
 stamRegen = 0
 
 
