@@ -1,3 +1,4 @@
+
 // Current States
 isTryingToShoot = false
 canShoot = true
