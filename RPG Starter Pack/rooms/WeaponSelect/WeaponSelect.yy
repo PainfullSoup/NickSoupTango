@@ -9,6 +9,7 @@
     {"name":"inst_23F78BBD","path":"rooms/WeaponSelect/WeaponSelect.yy",},
     {"name":"inst_371A61D3","path":"rooms/WeaponSelect/WeaponSelect.yy",},
     {"name":"inst_3E6DB45","path":"rooms/WeaponSelect/WeaponSelect.yy",},
+    {"name":"inst_3A10D451","path":"rooms/WeaponSelect/WeaponSelect.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -17,6 +18,7 @@
         {"$GMRInstance":"v2","%Name":"inst_23F78BBD","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_23F78BBD","objectId":{"name":"oArcher","path":"objects/oArcher/oArcher.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.64149964,"scaleY":0.64149964,"x":160.0,"y":160.0,},
         {"$GMRInstance":"v2","%Name":"inst_371A61D3","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_371A61D3","objectId":{"name":"oGunman","path":"objects/oGunman/oGunman.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0552213,"scaleY":1.0552214,"x":576.0,"y":160.0,},
         {"$GMRInstance":"v2","%Name":"inst_3E6DB45","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_3E6DB45","objectId":{"name":"oMage","path":"objects/oMage/oMage.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.74915,"scaleY":0.74915,"x":992.0,"y":160.0,},
+        {"$GMRInstance":"v2","%Name":"inst_3A10D451","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_3A10D451","objectId":{"name":"oHome","path":"objects/oHome/oHome.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.71555555,"scaleY":0.71555555,"x":96.0,"y":576.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":true,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":{"name":"DBackground_v2","path":"sprites/DBackground_v2/DBackground_v2.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":true,"x":0,"y":0,},
   ],
