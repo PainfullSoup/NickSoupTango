@@ -11,6 +11,7 @@ global.enemyDamageModifier = 1
 
 // Player Unlocks
 global.playerLevel = 1
+global.unUsedSkillpoints = 5
 global.unlockedWeapons = [oPistol, oSMG]
 global.earnedXP = 0
 global.earnedCash = 0
