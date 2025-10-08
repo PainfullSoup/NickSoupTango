@@ -1,12 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"oMage",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":13,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"oMageDisplay",
+  "eventList":[],
   "managed":true,
-  "name":"oMage",
+  "name":"oMageDisplay",
   "overriddenProperties":[],
   "parent":{
     "name":"Characters",
@@ -31,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Mage_Portrait___Copy",
-    "path":"sprites/Mage_Portrait___Copy/Mage_Portrait___Copy.yy",
+    "name":"sRed_Mage",
+    "path":"sprites/sRed_Mage/sRed_Mage.yy",
   },
   "spriteMaskId":null,
   "visible":true,
